@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/totalitycorp-frontend-challenge/static/css/main.16a723c9.css",
+    "main.js": "/totalitycorp-frontend-challenge/static/js/main.d1b81d1e.js",
+    "static/media/woman_hero.png": "/totalitycorp-frontend-challenge/static/media/woman_hero.d109717db264ec684e97.png",
+    "static/media/eCommerceLogo.png": "/totalitycorp-frontend-challenge/static/media/eCommerceLogo.0846b65e355eb5f89777.png",
+    "static/media/bg_hero.svg": "/totalitycorp-frontend-challenge/static/media/bg_hero.cd5c9e83759e74a20d2b.svg",
+    "index.html": "/totalitycorp-frontend-challenge/index.html",
+    "main.16a723c9.css.map": "/totalitycorp-frontend-challenge/static/css/main.16a723c9.css.map",
+    "main.d1b81d1e.js.map": "/totalitycorp-frontend-challenge/static/js/main.d1b81d1e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.16a723c9.css",
+    "static/js/main.d1b81d1e.js"
+  ]
+}
