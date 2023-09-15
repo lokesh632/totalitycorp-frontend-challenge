@@ -1,7 +1,7 @@
 # totalitycorp-frontend-challenge
 
 ### Live Demo 
-## click here: [Deploy link](https://frontent-challenge.vercel.app/)
+## click here: [Deploy link](https://lokesh632-totalitycorp-frontend-challenge.vercel.app/)
 
 ## Learn More
 
